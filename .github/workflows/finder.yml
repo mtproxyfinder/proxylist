@@ -1,7 +1,5 @@
 name: MTProxy Finder
 on:
-name: main
-on:
   schedule:
     - cron: '*/5 * * * *'
   
