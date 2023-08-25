@@ -24,12 +24,14 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests
           
-      - name: Run Python script
-        run: python main.py 
+      - name: commit files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git commit -m "update price" -a || :
 
-      - name: Commit changes
-        uses: stefanzweifel/git-auto-commit-action@v4
+      - name: push changes
+        uses: ad-m/github-push-action@v0.6.0
         with:
-          commit_message: 'Auto commit changes'
-          commit_options: '--no-verify'
-          repository: ${{ github.repository }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
