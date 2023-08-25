@@ -1,0 +1,28 @@
+name: MTProxy Finder
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'  # Replace with desired Python version
+
+      - name: Run Python script
+        run: python main.py 
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: 'Auto commit changes'
+          commit_options: '--no-verify'
+          repository: ${{ github.repository }}
