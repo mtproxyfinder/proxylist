@@ -39,7 +39,7 @@ def save_mtproxy_list(mtproxy_list, file_name):
     with open(file_name, 'w') as file:
         for mtproxy in mtproxy_list:
             server = mtproxy['host']
-            port = mtproxy['port']
+            port = str(mtproxy['port'])
             print(server+":"+port)
             if checkhost(server+":"+port):
                 print("conected")
