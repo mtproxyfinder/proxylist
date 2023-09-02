@@ -38,18 +38,18 @@ def checkhost(addr):
 def save_mtproxy_list(mtproxy_list, file_name):
     with open(file_name, 'w') as file:
         for mtproxy in mtproxy_list:
-            server = mtproxy['query']['server']
-            port = mtproxy['query']['port']
+            server = mtproxy['host']
+            port = mtproxy['port']
             print(server+":"+port)
             if checkhost(server+":"+port):
                 print("conected")
-                secret = mtproxy['query']['secret']
+                secret = mtproxy['secret']
                 mtproxy_url = f"https://t.me/proxy?server={server}&port={port}&secret={secret}"
                 file.write(mtproxy_url + '\n')
             else:
                 print("not conected")
 
-json_link = "https://raw.githubusercontent.com/yebekhe/MTProtoCollector/main/proxy/mtproto.json"  # Json link
+json_link = "https://raw.githubusercontent.com/hookzof/socks5_list/master/tg/mtproto.json"  # Json link
 file_name = "list.txt"  # Name of the text file to save the mtproxy list
 
 mtproxy_list = get(json_link)
