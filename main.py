@@ -33,7 +33,7 @@ async def checkhost(session, addr):
 async def save_mtproxy_list(mtproxy_list, file_name):
     async with aiohttp.ClientSession() as session:
         with open(file_name, 'w') as file:
-            for mtproxy in mtproxy_list[:10]:
+            for mtproxy in mtproxy_list:
                 server = mtproxy['query']['server']
                 port = str(mtproxy['query']['port'])
                 addr = server + ":" + port
