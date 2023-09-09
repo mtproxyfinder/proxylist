@@ -68,10 +68,17 @@ secret: {parsed_secret}
         print("sending proxy")
         await context.bot.send_message(chat_id=CH_ID, text=text, reply_markup=reply_markup)
         proxy_sent = True
+        # Schedule a job to stop the bot after a delay (e.g., 10 seconds)
+        context.application.job_queue.run_once(stop_bot, name="stop_bot", when=10)
     else:
         # send error to admin
         print("sending error to admin")
         await context.bot.send_message(chat_id=ADMIN_ID, text="Error: no proxy found")
+
+# Function to stop the bot
+def stop_bot(context: ContextTypes.DEFAULT_TYPE) -> None:
+    print("Stopping bot")
+    context.application.stop_running()
 
 def main() -> None:
     BotToken = os.environ.get("TOKEN")
@@ -82,18 +89,8 @@ def main() -> None:
     # Add send proxy job to application
     application.job_queue.run_once(send_proxy, name="send_proxy", when=1)
     
-    # Start the bot's polling loop in a separate thread
-    polling_thread = threading.Thread(target=lambda: application.run_polling(allowed_updates=Update.ALL_TYPES))
-    polling_thread.start()
-    
-    # Wait for the proxy to be sent and then stop the bot
-    while not proxy_sent:
-        time.sleep(1)
-    
-    # Stop the bot's polling loop and wait for it to finish
-    application.stop_running()
-    polling_thread.join()
-
+    # Run the bot until the user presses Ctrl-C
+    application.run_polling(allowed_updates=Update.ALL_TYPES)
 
 if __name__ == "__main__":
     main()
