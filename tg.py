@@ -4,8 +4,8 @@ import logging
 import random
 import time
 
-from telegram import InlineKeyboardButton, InlineKeyboardMarkup
-from telegram.ext import Application, Job
+from telegram import ForceReply, Update, InlineKeyboardButton, InlineKeyboardMarkup
+from telegram.ext import Application, CommandHandler, ContextTypes, MessageHandler, filters, Job
 
 ChannelID = "-1001973476872"
 ChannelLink = "@mtproxyfinder"
