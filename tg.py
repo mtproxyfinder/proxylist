@@ -3,6 +3,7 @@ import requests
 import logging
 import random
 import time
+import threading
 
 from telegram import ForceReply, Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Application, CommandHandler, ContextTypes, MessageHandler, filters, Job
@@ -73,6 +74,7 @@ secret: {parsed_secret}
         await context.bot.send_message(chat_id=ADMIN_ID, text="Error: no proxy found")
 
 def main() -> None:
+def main() -> None:
     BotToken = os.environ.get("TOKEN")
     """Start the bot."""
     # Create the Application and pass it your bot's token.
@@ -81,12 +83,18 @@ def main() -> None:
     # Add send proxy job to application
     application.job_queue.run_once(send_proxy, name="send_proxy", when=1)
     
-    # Run the bot until the user presses Ctrl-C or proxy_sent becomes True
+    # Start the bot's polling loop in a separate thread
+    polling_thread = threading.Thread(target=lambda: application.run_polling(allowed_updates=Update.ALL_TYPES))
+    polling_thread.start()
+    
+    # Wait for the proxy to be sent and then stop the bot
     while not proxy_sent:
-        try:
-            application.run_polling(allowed_updates=Update.ALL_TYPES)
-        except KeyboardInterrupt:
-            break
+        time.sleep(1)
+    
+    # Stop the bot's polling loop and wait for it to finish
+    application.stop_running()
+    polling_thread.join()
+
 
 if __name__ == "__main__":
     main()
