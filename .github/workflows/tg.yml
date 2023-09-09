@@ -27,9 +27,9 @@ jobs:
         env:
           TOKEN: ${{ secrets.TOKEN }}
 
-      - name:  Run main.py
+      - name:  Run tg.py
         run: |
-          python main.py
+          python tg.py
           
       - name: commit files
         run: |
