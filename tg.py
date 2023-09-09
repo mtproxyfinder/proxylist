@@ -3,6 +3,7 @@ import os
 import requests
 import logging
 import random
+import time
 
 from telegram import ForceReply, Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Application, CommandHandler, ContextTypes, MessageHandler, filters, Job
@@ -76,7 +77,14 @@ def main() -> None:
     
     # Add send proxy job to application
     application.job_queue.run_once(send_proxy, name="send_proxy", when=1)
+    
+    # Run the bot until the user presses Ctrl-C
+    application.run_polling(allowed_updates=Update.ALL_TYPES)
 
+    time.sleep(10)
+    
+    # Stop
+    application.stop_running()
 
 if __name__ == "__main__":
     main()
