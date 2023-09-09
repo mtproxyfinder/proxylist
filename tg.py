@@ -7,7 +7,6 @@ import random
 from telegram import ForceReply, Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Application, CommandHandler, ContextTypes, MessageHandler, filters, Job
 
-BotToken = os.environ.get("TOKEN")
 ChannelID = "-1001973476872"
 ChannelLink = "@mtproxyfinder" 
 
@@ -70,6 +69,7 @@ secret: {parsed_secret}
 
 
 def main() -> None:
+    BotToken = os.environ.get("TOKEN")
     """Start the bot."""
     # Create the Application and pass it your bot's token.
     application = Application.builder().token(BotToken).build()
