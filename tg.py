@@ -70,6 +70,7 @@ secret: {parsed_secret}
 
 def main() -> None:
     BotToken = os.environ.get("TOKEN")
+    print(BotToken)
     """Start the bot."""
     # Create the Application and pass it your bot's token.
     application = Application.builder().token(BotToken).build()
