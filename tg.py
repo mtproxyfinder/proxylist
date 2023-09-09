@@ -70,13 +70,12 @@ secret: {parsed_secret}
 
 def main() -> None:
     BotToken = os.environ.get("TOKEN")
-    print(BotToken)
     """Start the bot."""
     # Create the Application and pass it your bot's token.
     application = Application.builder().token(BotToken).build()
     
     # Add send proxy job to application
-    application.job_queue.run_once(send_proxy, name="send_proxy")
+    application.job_queue.run_once(send_proxy, name="send_proxy", when=1)
     
 
 
