@@ -76,13 +76,6 @@ def main() -> None:
     
     # Add send proxy job to application
     application.job_queue.run_once(send_proxy, name="send_proxy", when=1)
-    
-
-
-
-
-    # Run the bot until the user presses Ctrl-C
-    application.run_polling(allowed_updates=Update.ALL_TYPES)
 
 
 if __name__ == "__main__":
