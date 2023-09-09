@@ -74,7 +74,6 @@ secret: {parsed_secret}
         await context.bot.send_message(chat_id=ADMIN_ID, text="Error: no proxy found")
 
 def main() -> None:
-def main() -> None:
     BotToken = os.environ.get("TOKEN")
     """Start the bot."""
     # Create the Application and pass it your bot's token.
