@@ -1,4 +1,3 @@
-https://t.me/proxy?server=www.investopedia.sbs.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB3ZWIuYmFsZS5pcg==
 https://t.me/proxy?server=iranserver.net.tr&port=7080&secret=7onJL08k6fUST38law_u2HNkbi55ZWt0YW5ldC5jb21kbC5nb29nbGUuY29tZmFyYWthdi5jb20=
 https://t.me/proxy?server=108.181.121.106&port=8585&secret=7hYDAQIAAQAB_AMDhuJMOt1kbi55ZWt0YW5ldC5jb21kbC5nb29nbGUuY29tZmFyYWthdi5jb20WAwECAAEAAQAAAAAAAAAAAAAAAAAAAAA
 https://t.me/proxy?server=46.149.79.168&port=9443&secret=7hYDAQIAAQAB_AMDhuJMOt1kbi55ZWt0YW5ldC5jb21kbC5nb29nbGUuY29tZmFyYWthdi5jb20WAwECAAEAAQAAAAAAAAAAAAAAAAAAAAA
