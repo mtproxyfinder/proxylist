@@ -1,5 +1,4 @@
 https://t.me/proxy?server=135.181.84.51&port=8085&secret=3QAAAAAAAAAAAAAAAAAAAAA=
-https://t.me/proxy?server=128.0.41.2&port=8085&secret=3QAAAAAAAAAAAAAAAAAAAAA=
 https://t.me/proxy?server=178.63.173.226&port=7585&secret=7hYDAQIAAQAB_AMDhuJMOt1zMTAxLmRpdmFyY2RuLmNvbRYDAQIAAQABAAAAAAAAAAAAAAAAAAAAAA
 https://t.me/proxy?server=168.119.231.60&port=8085&secret=3QAAAAAAAAAAAAAAAAAAAAA=
 https://t.me/proxy?server=88.198.134.152&port=8085&secret=3QAAAAAAAAAAAAAAAAAAAAA=
