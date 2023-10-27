@@ -1,5 +1,6 @@
-https://t.me/proxy?server=95.217.243.65&port=80&secret=3RYDAQIAAQAB_AMDhuJMOt0WQPCNSUCO
-https://t.me/proxy?server=185.222.28.40&port=7980&secret=7hYDAQIAAQAB_AMDhuJMOt1zMTAxLmRpdmFyY2RuLmNvbRYDAQIAAQABAAAAAAAAAAAAAAAAAAAAAA
-https://t.me/proxy?server=128.140.83.249&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABkbi55ZWt0YW5ldC5jb21kbC5nb29nbGUuY29tZmFyYWthdi5jb20AAAAAAAAAAAAAAAAAAAAA
-https://t.me/proxy?server=116.203.192.34&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABzMTAxLmRpdmFyY2RuLmNvbQAAAAAAAAAAAAAAAAAAAAA
+https://t.me/proxy?server=atsine.ir.sajnama.ir.imanwindoor.com.hamialloy.ir.parsiancable.com.aquacutter.ir.pooyasazeh.com.ntkcms.com.vesalcarpet.com.zirbanaei.com.brbco.ir.mssameh.com.pag-co.com.v_nsaco.com.rajabali.ir.gallerymother.ir.abzarkade.net.pbmarket.ir.digilandstore.cfd&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972
+https://t.me/proxy?server=88.198.202.25&port=8085&secret=3QAAAAAAAAAAAAAAAAAAAAA=
+https://t.me/proxy?server=shabestarigroupasen.com.avaudit.ir.bahnamir.ir.sibelstore.com.100sabad.com.icc-co.ir.rahroshd.ir.shetabhub.com.pols_efid.ir.arashtaghavi.ir.ebarashop.com.twosunco.com.fekrnavard.ir.salehgroup.ir.novincenter.com.fixpluss.ir.alborzerooz.ir.Kamkala.website.&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972
+https://t.me/proxy?server=46.149.78.156&port=2&secret=3QAAAAAAAAAAAAAAAAAAAAA=
+https://t.me/proxy?server=168.119.236.140&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABzMTAxLmRpdmFyY2RuLmNvbQAAAAAAAAAAAAAAAAAAAAA
 https://t.me/proxy?server=46.149.76.22&port=443&secret=ee1603010200010001fc030386e24c3add70706c652e636f6d6d792e736861706172616b2e69722d646c2e676f6f676c652e636f6d2d666172616B61762E636F6d190902050004000400000000000000000000000000000000
