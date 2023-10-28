@@ -1,4 +1,6 @@
 https://t.me/proxy?server=135.181.93.227&port=8085&secret=3QAAAAAAAAAAAAAAAAAAAAA=
 https://t.me/proxy?server=135.181.95.127&port=8085&secret=3QAAAAAAAAAAAAAAAAAAAAA=
-https://t.me/proxy?server=65.108.209.237&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABzMTAxLmRpdmFyY2RuLmNvbQAAAAAAAAAAAAAAAAAAAAA
+https://t.me/proxy?server=116.203.192.34&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABzMTAxLmRpdmFyY2RuLmNvbQAAAAAAAAAAAAAAAAAAAAA
+https://t.me/proxy?server=91.151.16.154&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABzMTAxLmRpdmFyY2RuLmNvbQAAAAAAAAAAAAAAAAAAAAA
 https://t.me/proxy?server=proxyforopeta1.bestvipirr.online&port=2030&secret=7pDEADGFNQCTgW8IQVC0es1zcGVlZC5jbG91ZGZsYXJlLmNvbQ==
+https://t.me/proxy?server=95.211.185.51&port=4343&secret=7hYDAQIAAQAB_AMDhuJMOt1kbi55ZWt0YW5ldC5jb21kbC5nb29nbGUuY29tZmFyYWthdi5jb20WAwECAAEAAQAAAAAAAAAAAAAAAAAAAAA
