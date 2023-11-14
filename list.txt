@@ -1,5 +1,4 @@
 https://t.me/proxy?server=95.217.118.189&port=9443&secret=7kQWAEQWAEQARBYEQWAARBZkZG4ueWVrdGFuZXQuY29tYDAQIAAQABAAAAAAAAAAAAAAAAAAAAAA
-https://t.me/proxy?server=89.105.216.59&port=80&secret=7hYDAQIAAQAB_AMDhuJMOt1kbi55ZWt0YW5ldC5jb21kbC5nb29nbGUuY29tZmFyYWthdi5jb20WAwECAAEAAQAAAAAAAAAAAAAAAAAAAAA
-https://t.me/proxy?server=vidco.ir.offticko.ir.ravaninfo.ir.gfrgroup.net.sh_amehshab.ir.peisez.ir.mobile_arzan.ir.sby.ir.sunny24.ir.aria_novinwp.ir.kishfest.com.bazareyas.ir.lava_zems_port.com.kingshopping.ir.ipclick.ir.pars_virashid.com.zeebatarin.ir.saccou.ir.kafshmeli.website&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972
+https://t.me/proxy?server=95.216.183.173&port=9443&secret=7kQWAEQWAEQARBYEQWAARBZkZG4ueWVrdGFuZXQuY29tYDAQIAAQABAAAAAAAAAAAAAAAAAAAAAA
 https://t.me/proxy?server=94.130.229.59&port=443&secret=ee57797f3dab2e5ed85a4becdfb53e31b67777772e636c6f7564666c6172652e636f6d
-https://t.me/proxy?server=116.203.192.34&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABzMTAxLmRpdmFyY2RuLmNvbQAAAAAAAAAAAAAAAAAAAAA
+https://t.me/proxy?server=128.140.83.249&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABkbi55ZWt0YW5ldC5jb21kbC5nb29nbGUuY29tZmFyYWthdi5jb20AAAAAAAAAAAAAAAAAAAAA
