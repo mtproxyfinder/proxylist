@@ -1,12 +1,1 @@
-https://t.me/proxy?server=109.234.34.168&port=2&secret=3QAAAAAAAAAAAAAAAAAAAAA=
-https://t.me/proxy?server=ptsc.ir.graphicforyou.ir.sandfish.ir.golshan-ara.com.myhinet.ir.mehmano.com.idpex.ir.greenology.ir.goldenday.me.sahabdanesh.ir.partolaser.com.blueray-co.com.chiii.ir.itstockpro.com.pezhvaktadbir.com.anajshop.ir.offerybeauty.ir.infostore.ir.shabnews.info&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972
-https://t.me/proxy?server=5.75.227.52&port=600&secret=3QAAAAAAAAAAAAAAAAAAAAA=
-https://t.me/proxy?server=94.130.229.59&port=443&secret=ee57797f3dab2e5ed85a4becdfb53e31b67777772e636c6f7564666c6172652e636f6d
-https://t.me/proxy?server=138.201.35.161&port=3&secret=3RYDAQIAAQAB_AMDhuJMOt0=
-https://t.me/proxy?server=159.69.70.250&port=3&secret=3RYDAQIAAQAB_AMDhuJMOt0=
-https://t.me/proxy?server=164.92.154.61&port=443&secret=dd4a5bc618f9ec539a83b1820e19ca4a7f
-https://t.me/proxy?server=164.92.154.61&port=443&secret=ee4a5bc618f9ec539a83b1820e19ca4a7f73332e616d617a6f6e6177732e636f6d
-https://t.me/proxy?server=164.92.154.61&port=443&secret=7kpbxhj57FOag7GCDhnKSn9zMy5hbWF6b25hd3MuY29t
-https://t.me/proxy?server=164.92.147.12&port=443&secret=dd4a5bc618f9ec539a83b1820e19ca4a7f
-https://t.me/proxy?server=164.92.147.12&port=443&secret=ee4a5bc618f9ec539a83b1820e19ca4a7f73332e616d617a6f6e6177732e636f6d
-https://t.me/proxy?server=164.92.147.12&port=443&secret=7kpbxhj57FOag7GCDhnKSn9zMy5hbWF6b25hd3MuY29t
+https://t.me/proxy?server=212.118.38.110&port=2&secret=3QAAAAAAAAAAAAAAAAAAAAA=
