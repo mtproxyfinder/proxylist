@@ -1,6 +1,7 @@
 https://t.me/proxy?server=37.27.12.153&port=443&secret=ee6da638868b00ea05ec197df63edd1b906972616e63656c6c2e6b6972
 https://t.me/proxy?server=128.140.2.253&port=2443&secret=ee1603010200010001fc030386e24c3add7370656564746573742e6e6574
 https://t.me/proxy?server=iddan.ir.pegahesfahan.com.arsannews.ir.ar_iawebjavan.ir.farmanfarma.gallery.dekatech.ir.houkam.ir.lustrsazan.com.shahvar_rah.com.1397.ir.gildames.com.javadmohammadi.com.jamtrd.com.zirforoshi.com.d3sign.ir.bahmaninsurance.com.iamamir.ir.kavircompany.site&port=443&secret=ee000000000000000000000000000000006d6f6e676f64622e636f6d
+https://t.me/proxy?server=65.109.172.214&port=443&secret=FgMBAgABAAH8AwOG4kw63Q==
 https://t.me/proxy?server=164.90.203.95&port=443&secret=dd4a5bc618f9ec539a83b1820e19ca4a7f
 https://t.me/proxy?server=164.90.203.95&port=443&secret=ee4a5bc618f9ec539a83b1820e19ca4a7f73332e616d617a6f6e6177732e636f6d
 https://t.me/proxy?server=164.90.203.95&port=443&secret=7kpbxhj57FOag7GCDhnKSn9zMy5hbWF6b25hd3MuY29t
