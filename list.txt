@@ -1,5 +1,4 @@
 https://t.me/proxy?server=5.78.71.175&port=7980&secret=7hYDAQIAAQAB_AMDhuJMOt1zMTAxLmRpdmFyY2RuLmNvbRYDAQIAAQABAAAAAAAAAAAAAAAAAAAAAA
-https://t.me/proxy?server=5.78.74.70&port=7801&secret=7hYDAQIAAQAB_AMDhuJMOt1zMTAxLmRpdmFyY2RuLmNvbRYDAQIAAQABAAAAAAAAAAAAAAAAAAAAAA
 https://t.me/proxy?server=95.216.82.11&port=443&secret=ee1603010200010001fc030386e24c3add736b7970652e636f6d
 https://t.me/proxy?server=164.92.110.3&port=443&secret=7n0cXXnc374_mMHj8cnR7t52YW4ubmFqdmEuY29t
 https://t.me/proxy?server=164.90.202.68&port=443&secret=dd4a5bc618f9ec539a83b1820e19ca4a7f
