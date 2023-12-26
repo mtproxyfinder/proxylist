@@ -1,0 +1,2 @@
+https://t.me/proxy?server=188.166.13.46&port=443&secret=dd4a5bc618f9ec539a83b1820e19ca4a7f
+https://t.me/proxy?server=188.166.13.46&port=443&secret=ee4a5bc618f9ec539a83b1820e19ca4a7f73332e616d617a6f6e6177732e636f6d
