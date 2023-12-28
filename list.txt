@@ -1,1 +1,3 @@
-https://t.me/proxy?server=188.166.23.71&port=443&secret=dd4a5bc618f9ec539a83b1820e19ca4a7f
+https://t.me/proxy?server=143.198.56.147&port=7980&secret=7l_gQFTzuF-3LWB9678uvGZzMTAxLmRpdmFyY2RuLmNvbQ==
+https://t.me/proxy?server=146.190.175.209&port=2024&secret=7okmCSHHEPZJc3oBZgqoDvJzMTAxLmRpdmFyY2RuLmNvbQ==
+https://t.me/proxy?server=188.166.23.71&port=443&secret=7kpbxhj57FOag7GCDhnKSn9zMy5hbWF6b25hd3MuY29t
