@@ -1,0 +1,2 @@
+https://t.me/proxy?server=77.246.103.139&port=8&secret=FgMBAgABAAH8AwOG4kw63Q==
+https://t.me/proxy?server=91.201.114.232&port=8&secret=FgMBAgABAAH8AwOG4kw63Q==
