@@ -2,4 +2,3 @@ https://t.me/proxy?server=www.redmoonfireworks.cfd.&port=443&secret=7gAAAAAAAAAA
 https://t.me/proxy?server=www.bloggerlocal.cfd.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB0Z2p1Lm9yZw==
 https://t.me/proxy?server=51.89.19.206&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q==
 https://t.me/proxy?server=65.109.182.215&port=443&secret=xh4W7mtKXLlLKquGLEMXHg==
-https://t.me/proxy?server=165.232.91.116&port=443&secret=7kpbxhj57FOag7GCDhnKSn9zMy5hbWF6b25hd3MuY29t
