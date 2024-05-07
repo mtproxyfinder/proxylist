@@ -1,2 +1,1 @@
-https://t.me/proxy?server=www.irtopservice.ir&port=45567&secret=ee1603010200010001fc030386e24c3add76616e2e6e616a76612e636f6d6375726c
 https://t.me/proxy?server=77.238.234.46&port=6&secret=FgMBAgABAAH8AwOG4kw63QtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
