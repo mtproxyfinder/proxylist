@@ -1,1 +1,4 @@
 https://t.me/proxy?server=65.109.194.159&port=443&secret=7HQighJPBNMYVRNB6tdkVw
+https://t.me/proxy?server=65.109.184.125&port=443&secret=7HQighJPBNMYVRNB6tdkVw
+https://t.me/proxy?server=65.109.201.33&port=443&secret=7HQighJPBNMYVRNB6tdkVw
+https://t.me/proxy?server=5.78.48.255&port=443&secret=7HQighJPBNMYVRNB6tdkVw
