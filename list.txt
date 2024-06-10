@@ -1,2 +1,1 @@
-https://t.me/proxy?server=95.216.154.30&port=8085&secret=7HQighJPBNEnVRNB6tdkVw
-https://t.me/proxy?server=65.108.82.65&port=8085&secret=7HQighJPBNEnVRNB6tdkVw
+https://t.me/proxy?server=Dash.Cloudflare.com.www.google.com.hercoll.pw&port=1919&secret=7HQighJPBNMYVRNB6tdkVw
