@@ -1,1 +1,1 @@
-https://t.me/proxy?server=116.203.137.231&port=118&secret=eeRighJJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=79.175.188.57&port=1921&secret=7lNg1RXi-eVnLde2YIerh3R3d3cuY2xvdWRmbGFyZS5jb20=
