@@ -1,1 +1,2 @@
+https://t.me/proxy?server=185.148.144.59&port=7080&secret=eeRighJJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=cloudflare.nokia.net.aabm.ir.fanava.net.makewindow.ir.mahsagasht.ir.shirzadeslami.com.e3_0.ir.azarantik.com.hamrazamin.com.bornagostaran.ir.hamsaie.ir.98911.ir.mahan-pt.ir.sanisazeh.com.imi-indust.com.manestan.com.falearn.com.araspakhsh.com.peikan.autos.&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972
