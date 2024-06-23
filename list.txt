@@ -1,0 +1,2 @@
+https://t.me/proxy?server=5.75.131.227&port=443&secret=eec5caf45089a0b44d2cb8d18683b6df3673746f72652e737465616d706f77657265642e636f6d
+https://t.me/proxy?server=5.75.131.227&port=443&secret=7sXK9FCJoLRNLLjRhoO23zZzdG9yZS5zdGVhbXBvd2VyZWQuY29t
