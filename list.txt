@@ -1,1 +1,2 @@
 https://t.me/proxy?server=red-captoin.ir&port=321&secret=7gAAAAAAAAAAAAAAAAAAAABjb2RleC5pcg
+https://t.me/proxy?server=95.216.200.59&port=23&secret=eeRighJJvXrFGRMCIMJdCQ
