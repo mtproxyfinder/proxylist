@@ -27,7 +27,7 @@ proxy_sent = False
 def get_random_line_from_url(url):
     response = requests.get(url)
     lines = response.text.splitlines()
-    return random.choice(lines) if lines else None
+    return random.choice(lines[2:]) if lines else None
 
 # send proxy only once
 async def send_proxy(context: ContextTypes.DEFAULT_TYPE) -> None:
@@ -35,7 +35,7 @@ async def send_proxy(context: ContextTypes.DEFAULT_TYPE) -> None:
     if proxy_sent:
         return
 
-    url = "https://github.com/mtproxyfinder/proxylist/raw/main/list.txt"
+    url = "https://raw.githubusercontent.com/mtproxyfinder/telegram-proxies-collector/main/proxies"
     CH_ID = "-1001973476872"
     ADMIN_ID = "1301600392"
     proxy = get_random_line_from_url(url)
